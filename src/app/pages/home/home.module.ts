@@ -4,10 +4,12 @@ import { IonicModule } from '@ionic/angular';
 import { RouterModule } from '@angular/router';
 
 import { HomePage } from './home.page';
+import { ComponentsModule } from '../../components/components';
 
 @NgModule({
   imports: [
     CommonModule,
+    ComponentsModule,
     IonicModule,
     RouterModule.forChild([
       {
