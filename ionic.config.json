@@ -1,5 +1,6 @@
 {
   "name": "ps-libs",
   "type": "angular",
-  "integrations": {}
+  "integrations": {},
+  "hooks": {}
 }
