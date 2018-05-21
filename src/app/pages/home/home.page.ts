@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { WordTypes } from '../../word-types.enum';
 
 @Component({
   selector: 'app-page-home',
@@ -6,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
+  wordTypes = WordTypes;
 }
