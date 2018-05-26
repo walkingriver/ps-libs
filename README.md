@@ -14,7 +14,7 @@ considered a very basic starting point.
 - Install Ionic Framework v4 `npm i -g ionic@rc` (Omit `@rc` once v4 is live).
 - Clone this repository
 - `npm install`
-- `ionic start`
+- `ionic serve`
 
 ## See More
 See my [Ionic Courses on Pluralsight](https://app.pluralsight.com/profile/author/michael-callaghan) for more information. 
